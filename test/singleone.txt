@@ -1,0 +1,5 @@
+it gives you a file-like object that you can use to access standard input/output for that process. 
+There are 3 other variants of popen that all handle the i/o slightly differently. 
+If you pass everything as a string, then your command is passed to the shell; 
+las chicas no tienen pilila
+if you pass them as a list then you don't need to worry about escaping anything. See
